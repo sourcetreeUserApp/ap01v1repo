@@ -1,10 +1,11 @@
 file03 body
 
+<<<<<<< HEAD
 
 branchSix version 2
 
 branchSix version 3
-
+=======
 origin head version 3
 
 branchThree version 1
@@ -20,3 +21,4 @@ branchThree version 5
 
 
 branchThree version 6
+>>>>>>> 5acc344b9ceb7a82dac31fbf9ddb997f843141f4
