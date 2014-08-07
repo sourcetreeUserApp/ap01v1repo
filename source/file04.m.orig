@@ -1,0 +1,10 @@
+file04 body
+
+
+<<<<<<< HEAD
+branchFive version 1
+
+branchFive version 2
+=======
+head version 6
+>>>>>>> c7894a12fba3cc95be9209a56d59edbfb3e66d7d
