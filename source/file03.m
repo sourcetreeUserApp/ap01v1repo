@@ -1,11 +1,10 @@
 file03 body
 
 
-branchSix version 2
 
-branchSix version 3
 
 origin head version 3
+
 
 branchThree version 1
 
@@ -15,8 +14,12 @@ branchThree version 3
 
 branchThree version 4
 
-
 branchThree version 5
 
-
 branchThree version 6
+
+
+
+branchSix version 2
+
+branchSix version 3
